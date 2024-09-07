@@ -6,3 +6,7 @@
 <p>-HTML</p>
 <p>-CSS</p>
 <P>-JS</P>
+
+<h2>Dificuldades</h2>
+<p>-Principalmente na parte de JavaScript 💻</p>
+
